@@ -1,0 +1,44 @@
+img{
+    width: 10rem;
+    border-radius: 97%;
+}
+
+
+
+.body001 {
+    background-color:black;
+    color: aliceblue;
+    margin-bottom: 20px;
+    margin-left: 25%;
+    width: 55%;
+    
+}
+
+.text01{
+    color: rgb(80, 81, 82);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.body002{
+    margin-left: 15px;
+    
+}
+
+.td003{
+    margin-left: 20px;
+}
+
+element
+{
+  margin-top: 600px;
+}
+
+.td01{
+    line-height: 2;
+    font-family:sans-serif;
+}
+
+.tr02{
+    font-size: 20px;
+}
